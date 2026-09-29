@@ -3,12 +3,7 @@
   <img src="./assets/banner-light.svg" alt="doebkblcya handwritten beside an oil-painted basket of flowers" width="100%">
 </picture>
 
----
-
-<p>
-  <strong>Code · Music · Photography</strong><br>
-  Formerly at LexisNexis. Currently an unemployed wanderer.
-</p>
+<h3>Code · Music · Photography<br>Formerly at LexisNexis. Currently an unemployed wanderer.</h3>
 
 ---
 
