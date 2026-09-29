@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="156" height="32" viewBox="0 0 156 32" role="img" aria-labelledby="title">
+  <title id="title">doebkblcya.com</title>
+  <style>
+    .frame { fill: none; stroke: #bcb3a9; }
+    .label { fill: #4d4140; }
+    @media (prefers-color-scheme: dark) {
+      .frame { stroke: #55514f; }
+      .label { fill: #e5ddd2; }
+    }
+  </style>
+  <rect class="frame" x="0.75" y="0.75" width="154.5" height="30.5" rx="5" stroke-width="1.5"/>
+  <text class="label" x="78" y="21" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="14.5">doebkblcya.com</text>
+</svg>
